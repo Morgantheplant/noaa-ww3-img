@@ -1,0 +1,5 @@
+venv
+*.pyc
+.env
+basemap-1.0.7
+.DS_Store
