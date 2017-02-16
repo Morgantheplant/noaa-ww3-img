@@ -2,7 +2,7 @@
 
 Plots NOAA WavewatchIII grib forecast data to a PNG via Basemap as a web mercator projection (Google Maps). Coastlines and boarders removed so it can easily be plotted to GoogleMaps.
 
-![sample_image](npm-1.png)
+![sample_image](./nph-1.png)
 
 ```
 // original API repsponse
